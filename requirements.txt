@@ -1,7 +1,7 @@
 bidict==0.9.0.post1
 boto==2.18.0
 corenlp-xml==1.0.2
-Flask==0.10.1
+Flask==1.0
 Flask-RESTful==0.2.8
 itsdangerous==0.23
 Jinja2==2.7.1
